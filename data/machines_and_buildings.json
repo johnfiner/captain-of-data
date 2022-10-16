@@ -451,7 +451,7 @@
                     ]
                 },
                 {
-                    "name": "Maintenance I",
+                    "name": "Maintenance I (recycable)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -522,7 +522,7 @@
                     ]
                 },
                 {
-                    "name": "Maintenance II",
+                    "name": "Maintenance II (recycable)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -593,7 +593,7 @@
                     ]
                 },
                 {
-                    "name": "Maintenance III",
+                    "name": "Maintenance III (recycable)",
                     "duration": 30,
                     "inputs": [
                         {
@@ -2127,7 +2127,7 @@
             ],
             "recipes": [
                 {
-                    "name": "Concrete mixing",
+                    "name": "Concrete mixing (slag)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -2155,7 +2155,7 @@
                     ]
                 },
                 {
-                    "name": "Concrete mixing",
+                    "name": "Concrete mixing (gravel)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -2230,7 +2230,7 @@
                     ]
                 },
                 {
-                    "name": "Glass mix mixing",
+                    "name": "Glass mix mixing (acid)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -2787,7 +2787,7 @@
                     ]
                 },
                 {
-                    "name": "Snack production",
+                    "name": "Snack production (potato)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -3076,7 +3076,7 @@
             ],
             "recipes": [
                 {
-                    "name": "Thermal desalination",
+                    "name": "Thermal desalination (hi)",
                     "duration": 10,
                     "inputs": [
                         {
@@ -3100,7 +3100,7 @@
                     ]
                 },
                 {
-                    "name": "Thermal desalination",
+                    "name": "Thermal desalination (lo)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -3124,7 +3124,7 @@
                     ]
                 },
                 {
-                    "name": "Thermal desalination",
+                    "name": "Thermal desalination (depleted)",
                     "duration": 40,
                     "inputs": [
                         {
@@ -4560,7 +4560,7 @@
                     ]
                 },
                 {
-                    "name": "Medical supplies assembly (T2)",
+                    "name": "Medical supplies II assembly (T2)",
                     "duration": 10,
                     "inputs": [
                         {
@@ -5979,7 +5979,7 @@
                     ]
                 },
                 {
-                    "name": "Graphite production",
+                    "name": "Graphite production (carbon dioxide)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -6225,7 +6225,7 @@
                     ]
                 },
                 {
-                    "name": "Salt making",
+                    "name": "Salt making (brine)",
                     "duration": 40,
                     "inputs": [
                         {
@@ -6296,7 +6296,7 @@
                     ]
                 },
                 {
-                    "name": "Salt making",
+                    "name": "Salt making (brine)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -6438,7 +6438,7 @@
             ],
             "recipes": [
                 {
-                    "name": "Steam generation",
+                    "name": "Steam generation (coal)",
                     "duration": 10,
                     "inputs": [
                         {
@@ -6462,7 +6462,7 @@
                     ]
                 },
                 {
-                    "name": "Steam generation",
+                    "name": "Steam generation (biomass)",
                     "duration": 10,
                     "inputs": [
                         {
@@ -6486,7 +6486,7 @@
                     ]
                 },
                 {
-                    "name": "Steam generation",
+                    "name": "Steam generation (animal feed)",
                     "duration": 10,
                     "inputs": [
                         {
@@ -7947,7 +7947,7 @@
                     ]
                 },
                 {
-                    "name": "Gold smelting",
+                    "name": "Gold smelting (scrap)",
                     "duration": 30,
                     "inputs": [
                         {
@@ -8266,7 +8266,7 @@
             ],
             "recipes": [
                 {
-                    "name": "HeavyOil cracking",
+                    "name": "HeavyOil cracking (diesel)",
                     "duration": 20,
                     "inputs": [
                         {
@@ -8677,7 +8677,7 @@
             ],
             "recipes": [
                 {
-                    "name": "Plastic making",
+                    "name": "Plastic making (naphta)",
                     "duration": 20,
                     "inputs": [
                         {
