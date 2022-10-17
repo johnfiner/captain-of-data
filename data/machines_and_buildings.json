@@ -8842,7 +8842,32 @@
                     "quantity": 50
                 }
             ],
-            "recipes": []
+            "recipes": [
+                {
+                    "name": "Chicken harvest",
+                    "duration": 60,
+                    "inputs": [
+                        {
+                            "name": "Water",
+                            "quantity": 18.1
+                        },
+                        {
+                            "name": "Animal feed",
+                            "quantity": 15.1
+                        }
+                    ],
+                    "outputs": [
+                        {
+                            "name": "Chicken carcass",
+                            "quantity": 10
+                        },
+                        {
+                            "name": "Eggs",
+                            "quantity": 7.3
+                        }
+                    ]
+                }
+            ]
         },
         {
             "id": "CargoDepotT4",
