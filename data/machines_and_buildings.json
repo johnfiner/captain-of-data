@@ -4763,7 +4763,7 @@
                     ]
                 },
                 {
-                    "name": "Solar cell assembly",
+                    "name": "Solar cell assembly (mono)",
                     "duration": 60,
                     "inputs": [
                         {
